@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Industrial Modernization Support",
+    "sector": "food_processing",
+    "type": "Demo record",
+    "eligibility": "Medium-sized eligible units",
+    "action": "Verify current official scheme guidelines"
+  },
+  {
+    "name": "Technology Adoption Support",
+    "sector": "food_processing",
+    "type": "Demo record",
+    "eligibility": "Eligible industrial applicants",
+    "action": "Verify current official guidelines"
+  }
+]

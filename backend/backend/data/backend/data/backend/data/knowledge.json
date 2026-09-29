@@ -1,0 +1,10 @@
+[
+  {
+    "source": "Demo Regulatory Knowledge Base",
+    "text": "For a food-processing project, the approval checklist may include factory-related approval, pollution consent and fire safety review depending on project characteristics. Always verify current official requirements before filing."
+  },
+  {
+    "source": "Demo SLA Knowledge Base",
+    "text": "CIVIC@ME tracks target service timelines and flags applications approaching their configured SLA threshold."
+  }
+]

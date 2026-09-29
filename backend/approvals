@@ -1,0 +1,41 @@
+[
+  {
+    "id": "APP-001",
+    "sector": "food_processing",
+    "location": "maharashtra",
+    "name": "Factory Approval",
+    "department": "Industries Department",
+    "sla_days": 15,
+    "documents": [
+      "Project report",
+      "Land document",
+      "Identity proof"
+    ],
+    "dependency": null
+  },
+  {
+    "id": "APP-002",
+    "sector": "food_processing",
+    "location": "maharashtra",
+    "name": "Pollution Consent",
+    "department": "Pollution Control",
+    "sla_days": 30,
+    "documents": [
+      "Environmental documents"
+    ],
+    "dependency": "APP-001"
+  },
+  {
+    "id": "APP-003",
+    "sector": "food_processing",
+    "location": "maharashtra",
+    "name": "Fire Safety NOC",
+    "department": "Fire Department",
+    "sla_days": 15,
+    "documents": [
+      "Building plan",
+      "Fire safety plan"
+    ],
+    "dependency": null
+  }
+]
